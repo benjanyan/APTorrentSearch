@@ -7,6 +7,7 @@
 // @match        https://www.anime-planet.com/anime/*
 // @grant        none
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
+// @downloadURL  https://github.com/benjanyan/APTorrentSearch/raw/master/APTorrentSearch.user.js
 // ==/UserScript==
 
 (function() {
